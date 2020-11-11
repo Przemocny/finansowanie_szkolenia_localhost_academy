@@ -153,24 +153,26 @@ Github z zadaniami, Excel z materiałami, Discord i Slack do komunikacji i ciśn
 # Etap 5 - Jesteś po zajebiście intensywnym kursie indywidualnym z mentorem, masz 3 msc praktyki w firmie i w końcu jesteś juniorem
 
 Jeśli mentor uzna, że jesteś dobry to sam Cię zatrudni w swojej firmie (zatrudniamy ok 30% swoich uczniów) lub poleci Cię dalej do swoich znajomych :) 
-<img src="imgs/dalsza_praca_z_mentorem.jpg"   width="400"/>
+
+<img src="imgs/dalsza_praca_z_mentorem.jpg" width="400"/>
+
 Ale po kursie i z wypracowanym portfolio podczas szkolenia i praktykami w firmie mentora, raczej nie będziesz mieć problemu ze znalezieniem pracy jako junior  
 
 ***
 <img src="imgs/LH-Academy.png"   width="400"/>
 
 # Mentorskie szkoły Localhost Academy<br/><small>by Localhost Group sp zoo</small>
-## Misją Localhost Academy:
-#### Uczymy takich juniorów, jakich sami chcemy zatrudniać
+Misją Localhost Academy:
+### Uczymy takich juniorów, jakich sami chcemy zatrudniać
 ***
-## Wizja na najbliższe lata rozwoju Localhost Academy:
-#### Chcemy ustandaryzować ścieżki edukacji w IT oparte o dynamicznie zmieniające się kryteria rynkowe
+Wizja na najbliższe lata rozwoju Localhost Academy:
+### Chcemy ustandaryzować ścieżki edukacji w IT oparte o dynamicznie zmieniające się kryteria rynkowe
 ***
-## 4 filary wartości Localhost Academy:
-#### Oddanie i pasja do dzielenia się wiedzą
-#### Nauka poprzez praktykę i rozwiązywanie problemów
-#### Indywidualne plany rozwoju dopasowane do wymogów rynku
-#### Zawsze aktualna wiedza teoretyczna i uniwersalne umiejętności praktyczne
+4 filary wartości Localhost Academy:
+### Oddanie i pasja do dzielenia się wiedzą
+### Nauka poprzez praktykę i rozwiązywanie problemów
+### Indywidualne plany rozwoju dopasowane do wymogów rynku
+### Zawsze aktualna wiedza teoretyczna i uniwersalne umiejętności praktyczne
 ***
 Link do firmy w Rejestrze Instytucji Szkoleniowych:
 http://stor.praca.gov.pl/portal/#/ris/wyszukiwarka/szczegolyRis?id=69576
