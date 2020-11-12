@@ -110,15 +110,15 @@ W czasie przygotowania dostaniesz pełny plan kursu oraz kolejne kroki administr
 **nazwa:** indywidualny kurs Javascript Fundamentals + React Fundamentals 2021
 **zakres teoretyczny:** zaawansowane funkcje języka javascript, zasady pisania dobrej jakości oprogramowania, rynkowy zakres funkcjonalności biblioteki react
 **zakres praktyczny:** warsztaty z mentorem towarzyszące częściom teoretycznym oraz stworzenie 2 projektów do programistycznego portfolio na podstawie zdobytej wiedzy z javascriptu i reacta
-**ilość godzin szkolenia** 800h w 6 msc
+**ilość godzin szkolenia** 800h w 6 msc + 240h praktyk
 
-**Uzasadnienie celowości szkolenia:** Wyszkolenie programisty frontendowego z biblioteką react na poziomie rynkowym i zatrudnienie na Umowę zlecenie na próbę na 3msc na pół etatu z wysoce uprawdopodobnioną kontynuacją w formie Umowy o pracę
+**Uzasadnienie celowości szkolenia:** Wyszkolenie programisty frontendowego z dobrą znajomością biblioteki React na poziomie rynkowym i zatrudnienie na Umowę zlecenie na 3msc na równowartość połowy etatu z wysoce uprawdopodobnioną kontynuacją w formie Umowy o pracę lub umowy B2B
 
 ***
-3. Wysyłasz na dofinansowania@localhost-group.com wniosek o uprawdopodobnienie zatrudnienia oraz nr kontaktowy i swój adres, na który mamy Ci odesłać pocztą wypełniony wniosek
-4. Składasz dokumenty do urzędu i czekasz... (czasem nawet ponad miesiąc - także uzbrój się w cierpliwość)
-5. Urząd kontaktuje się z nami, dyskutujemy i negocjujemy sobie z nimi i dogadujemy szczegóły dofinansowania Twojego kursu. Potem piszemy do Ciebie, że Urząd się z nami skontaktował i jakie są ustalenia
-6. Urząd kontaktuje się z Tobą, że wszystko dogadane i możesz przyjść podpisać papiery i zaczynać szkolenie
+1. Wysyłasz na dofinansowania@localhost-group.com wniosek o uprawdopodobnienie zatrudnienia oraz nr kontaktowy i swój adres, na który mamy Ci odesłać pocztą wypełniony wniosek
+2. Składasz dokumenty do urzędu i czekasz... (czasem nawet ponad miesiąc - także uzbrój się w cierpliwość)
+3. Urząd kontaktuje się z nami, dyskutujemy i negocjujemy sobie z nimi i dogadujemy szczegóły dofinansowania Twojego kursu. Potem piszemy do Ciebie, że Urząd się z nami skontaktował i jakie są ustalenia
+4. Urząd kontaktuje się z Tobą, że wszystko dogadane i możesz przyjść podpisać papiery i zaczynać szkolenie
 <img src="imgs/masz_juz_hajsy.jpg" width="400"/>
 
 ***
