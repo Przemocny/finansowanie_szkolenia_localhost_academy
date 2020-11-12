@@ -180,3 +180,36 @@ http://stor.praca.gov.pl/portal/#/ris/wyszukiwarka/szczegolyRis?id=69576
 Link do strony i kontakt:
 https://academy.localhost-group.com
 dofinansowania@localhost-group.com
+***
+## Od stycznia 2021 zaczynamy uczyć na kierunkach:
+
+Miejsc dla chętnych na rok 2021 przewidujemy 
+na wszystkich kierunkach ok 90 w ciągu roku
+
+### Niezależnie od języka każdy kurs to:
+- indywidualne zajęcia z mentorem
+- więcej ćwiczeń praktycznych niż jesteś w stanie ogarnąć
+- gruntowne przeszkolenie w danym języku
+- gruntowne przeszkolenie w danej specjalizacji 
+- realizacja minimum 2 średniozaawansowanych projektów
+- przygotowanie CV i portfolio
+
+### Javascript
+- JS Frontend z React (9msc)
+- JS Frontend z Angular (9msc)
+- JS Backend z Dockerem, Expressem, Next i różnymi DBs (12msc)
+- JS Fullstack React + Next z Dockerem i różnymi DBs (15msc)
+- JS Fullstack Angular + Nest z Dockerem i różnymi DBs (15msc)
+
+### Python
+- Python Backend z Django z Dockerem, Expressem, Next i różnymi DBs (12msc)
+- Python Data Science + Biznes + Bazy danych (12msc)
+- Python Machine Learning + Matematyka (12msc)
+- Python/JS Fullstack z Reactem i Django (15msc)
+
+### PHP
+- PHP Webdev z Wordpressem (9msc)
+- PHP Backend z Laravel, Symfony i różnymi DBs (12msc)
+
+Także każdy znajdzie coś dla siebie, a jak nie wiesz co wybrać to wystarczy porozmawiać z mentorem i on Cię wykieruje na odpowiednie tory ;) 
+***
